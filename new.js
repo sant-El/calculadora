@@ -12,6 +12,5 @@ function areaRetangulo(b,h) {
 }
 
 module.exports = areaCirculo
-module.exports = areaTriangulo
-module.exports = areaRetangulo
+
 
